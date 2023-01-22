@@ -26,7 +26,7 @@ MIUI Optimizations were reported on MIUI 12 so far, but it is possible this opti
 
 ### MIUI 12
 
-To let your app run in the background, make sure settings for your app look like the following:
+To let your app run in the background, make sure settings for your app look like the following (some
 
 <div class="img-block">
   <img src="/assets/img/xiaomi/miui12_settings1.jpg">
